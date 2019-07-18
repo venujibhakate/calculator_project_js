@@ -1,0 +1,17 @@
+
+#calc-contain{
+    width:180px;
+    height:210px;
+    margin:auto;
+    border:2px solid black;
+}
+input{
+    width:40px;
+    height:40px;
+    background-color:blue;
+    color:white;
+}
+
+#answerstyle{
+    width:170px;
+}
